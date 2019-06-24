@@ -18,3 +18,6 @@ The client and server can be run on different terminals or computers using the f
   
 # Note
 The port number should be the same for the clients and the server to send and recieve messages between different clients.
+
+# Commands Supported
+The follwing commands are supported in the application
