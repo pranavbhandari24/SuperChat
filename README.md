@@ -20,4 +20,23 @@ The client and server can be run on different terminals or computers using the f
 The port number should be the same for the clients and the server to send and recieve messages between different clients.
 
 # Commands Supported
-The follwing commands are supported in the application
+The follwing commands are supported in the application:
+
+1.   /help
+
+          This Command lists all the commands supported on the terminal.
+2.   /quit
+          
+          Quits the program.
+3.   /change_chatroom
+          
+          This command lists all the available chatrooms and allows the user to create chatrooms and change between them.
+4.   /delete_chatroom
+
+          This command lets the user delete a chatroom. A chatroom cannot be deleted if there is a client inside it. The Main lobby cannot be deleted.
+5.   /ban
+
+          Bans the client specified. All messages from the banned users are ignored.
+6.   /unban
+
+          Allows the user to unban the banned users.
