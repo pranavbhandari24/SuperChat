@@ -28,10 +28,10 @@ The follwing commands are supported in the application:
 2.   /quit
           
           Quits the program.
-3.   /change_chatroom
+3.   /change chatroom
           
           This command lists all the available chatrooms and allows the user to create chatrooms and change between them.
-4.   /delete_chatroom
+4.   /delete chatroom
 
           This command lets the user delete a chatroom. A chatroom cannot be deleted if there is a client inside it. The Main lobby cannot be deleted.
 5.   /ban
