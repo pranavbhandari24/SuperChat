@@ -7,11 +7,8 @@ The following commands should be run in the terminal before the program is run.
     sudo apt-get install libboost-all-dev
     sudo apt-get install libncurses5-dev
 
-The next step is to extract the tar file
-
-    tar -xvf include.tar
      
-After Installing the above packages and extracting the tar file, type the command below to make the executables.
+After Installing the above packages, type the command below to make the executables.
 
     make
     
